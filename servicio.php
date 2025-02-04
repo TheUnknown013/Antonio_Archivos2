@@ -1,5 +1,2 @@
-<?php
 
-echo "Jose Antonio Basurto Hernández";
-
-?>
+ Jose Antonio Basurto Hernández
